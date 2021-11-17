@@ -1,10 +1,10 @@
 # aimap
 
-> A Vue.js project
+> 基于 vue 的裸地识别前端平台，项目中的 assets/luoyang.png 和 assets/nanjing.png 均为自己的数据集，因为过大暂时无法上传
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
