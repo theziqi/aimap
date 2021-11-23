@@ -7,7 +7,8 @@ yarn-error.log*
 /test/unit/coverage/
 /test/e2e/reports/
 selenium-debug.log
-/src/assets/
+/src/assets/nanjing.png
+/src/assets/luoyang.png
 
 # Editor directories and files
 .idea
