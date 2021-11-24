@@ -1,8 +1,10 @@
 # aimap
 
-> 基于 vue 的裸地识别前端平台，项目中的 assets/luoyang.png 和 assets/nanjing.png 均为自己的数据集，因为过大暂时无法上传
+基于 vue 的裸地识别前端平台，项目中的 assets/luoyang.png 和 assets/nanjing.png 均为自己的数据集，因为过大暂时无法上传
 
-## Build Setup
+地图资源文件地址：链接：https://pan.baidu.com/s/1ztLYoQW7dafCSfqzAEQkMQ 提取码：jr95 将其放入src/assets即可
+
+# Build Setup
 
 ```bash
 # install dependencies
